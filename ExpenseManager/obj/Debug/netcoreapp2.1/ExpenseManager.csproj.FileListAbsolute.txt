@@ -1,0 +1,110 @@
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.deps.json
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.runtimeconfig.json
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.runtimeconfig.dev.json
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.dll
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csprojAssemblyReference.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csproj.CoreCompileInputs.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorAssemblyInfo.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorAssemblyInfo.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.AssemblyInfoInputs.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.AssemblyInfo.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.TagHelpers.input.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.TagHelpers.output.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorCoreGenerate.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorTargetAssemblyInfo.cache
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorTargetAssemblyInfo.cs
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.pdb
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.Views.dll
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.Views.pdb
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.Views.pdb
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.dll
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.pdb
+C:\Users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csproj.CopyComplete
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\Index.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\_expenseForm.g.cshtml.cs
+c:\users\asharma2\source\repos\ExpenseManager\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\_expenseReport.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.deps.json
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.runtimeconfig.json
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.runtimeconfig.dev.json
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.dll
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.pdb
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.Views.dll
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.Views.pdb
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csprojAssemblyReference.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csproj.CoreCompileInputs.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorAssemblyInfo.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorAssemblyInfo.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.AssemblyInfoInputs.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.AssemblyInfo.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.TagHelpers.input.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.TagHelpers.output.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorCoreGenerate.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\Index.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\_expenseForm.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\_expenseReport.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorTargetAssemblyInfo.cache
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorTargetAssemblyInfo.cs
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.Views.pdb
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.dll
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.pdb
+C:\Personal Projects\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csproj.CopyComplete
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.deps.json
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.runtimeconfig.json
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.runtimeconfig.dev.json
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.dll
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.pdb
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.Views.dll
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\bin\Debug\netcoreapp2.1\ExpenseManager.Views.pdb
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csproj.AssemblyReference.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.GeneratedMSBuildEditorConfig.editorconfig
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.AssemblyInfoInputs.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.AssemblyInfo.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.csproj.CoreCompileInputs.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorAssemblyInfo.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorAssemblyInfo.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.sourcelink.json
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.TagHelpers.input.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.TagHelpers.output.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorCoreGenerate.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\Index.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\_expenseForm.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Expense\_expenseReport.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorTargetAssemblyInfo.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.RazorTargetAssemblyInfo.cs
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.Views.pdb
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.dll
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.pdb
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseManager.genruntimeconfig.cache
+G:\Web Design\ExpenseManager-ASPCore-EFCore-Highchart\ExpenseManager\obj\Debug\netcoreapp2.1\ExpenseM.9A6462B3.Up2Date
