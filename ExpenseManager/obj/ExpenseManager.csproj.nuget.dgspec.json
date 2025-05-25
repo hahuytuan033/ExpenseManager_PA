@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\ExpenseManager.csproj": {}
+    "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\ExpenseManager.csproj": {}
   },
   "projects": {
-    "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\ExpenseManager.csproj": {
+    "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\ExpenseManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\ExpenseManager.csproj",
+        "projectUniqueName": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\ExpenseManager.csproj",
         "projectName": "ExpenseManager",
-        "projectPath": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\ExpenseManager.csproj",
+        "projectPath": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\ExpenseManager.csproj",
         "packagesPath": "C:\\Users\\Huy Tuấn\\.nuget\\packages\\",
-        "outputPath": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\",
+        "outputPath": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huy Tuấn\\AppData\\Roaming\\NuGet\\NuGet.Config"

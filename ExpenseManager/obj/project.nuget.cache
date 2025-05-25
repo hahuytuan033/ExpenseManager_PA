@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uHSB7HaAe9Q=",
+  "dgSpecHash": "zlyIwXUVUaU=",
   "success": true,
-  "projectFilePath": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\ExpenseManager.csproj",
+  "projectFilePath": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\ExpenseManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huy Tuấn\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Huy Tuấn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

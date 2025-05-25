@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bGxsL9U8F5PeVb/UFeeLQm09tRejyy0GtW1uolO/MAE=",
+  "Hash": "tjg1KsQ7y1zB153eJpmrc9s/mYb8JmJX17XhTxodP8E=",
   "Source": "ExpenseManager",
   "BasePath": "_content/ExpenseManager",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ExpenseManager\\wwwroot",
       "Source": "ExpenseManager",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "css/site.min#[.{fingerprint=8qo50a92ce}]?.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.min.css",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "dxsjdc5qz3",
       "Integrity": "McbHBzy9BUg1hcqBH9MRTR4oO9Mku88lAZq+tWhLOXI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.min.css"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/.bower#[.{fingerprint=qc5bpo1mh7}]?.json.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "qqrdszc2s3",
       "Integrity": "shXlp+mv97lSiOnr8LV3tFxbE9TlE6CPk2wkN93cvSk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint=3zatgav9ba}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ae9ceiaw4x",
       "Integrity": "krBV64aAyOh+7AFCinaS2xZuASNxNC1pje5hhL14ZO4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint=1gzojq7jip}]?.map.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "4f740cl4ii",
       "Integrity": "cAH+8ZfiZWaiJ376jUHlAz4D0y/JYFFc0ZY3bUglcKQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "images/banner2#[.{fingerprint=htbl0vvztd}]?.svg.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner2.svg",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner2.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "jfh2uhnp09",
       "Integrity": "vzYKBBlAGaVOmZu5EiDyLftJ6hSzHYbsy3jI7JPPu8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner2.svg"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner2.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint=b804xvqo1w}]?.map.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "f83wp4uo0l",
       "Integrity": "XwFguHZ6eg4QUKF0ar1wQJMN5bvXgkx3zE8ZmK2saZA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/.bower#[.{fingerprint=ewsoquf6rw}]?.json.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "brqfpjpibr",
       "Integrity": "Nyr2p6kHie9u0Ly3xdknyYnpM0e4mFTxdE+4eRUHSWA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint=sjab29p8z5}]?.js.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "lgfr3vczpo",
       "Integrity": "BcYadvJXrnwTzXN9n69lcdbZGiDnjL5JaVoj+cV/MDM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "js/site.min#[.{fingerprint=5ipweew5fc}]?.js.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.min.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "5ipweew5fc",
       "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.min.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint=l0xqxslevh}]?.js.gz",
       "AssetKind": "All",
@@ -217,20 +217,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "h5b3osmyns",
       "Integrity": "y7xVahT+EnPn57GwMfGOl7TWk5/fqPq2yX45r51ug6k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint=r3m9qmfdw3}]?.svg.gz",
       "AssetKind": "All",
@@ -238,20 +238,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "73sctrwdsp",
       "Integrity": "zR1VlydnuqeyNcoPeF2g75ymjcWfNRLeIDttoMLDNrs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/js/npm#[.{fingerprint=4sgu2tw5my}]?.js.gz",
       "AssetKind": "All",
@@ -259,20 +259,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "qwzw8fzd18",
       "Integrity": "ypF9iNz2NKhD+8O6nDLrA5o/ow9AAv/o1vEpXSTzoVc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint=d2pxujwhw3}]?.js.gz",
       "AssetKind": "All",
@@ -280,20 +280,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "h1c8sfk2ju",
       "Integrity": "CxkopAgaC9XvQ3vYNKLHBn7t0bLYWFcdNPIZXqGBNFg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "images/banner1#[.{fingerprint=v6jnq5ttib}]?.svg.gz",
       "AssetKind": "All",
@@ -301,20 +301,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner1.svg",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner1.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1fce2tgzvd",
       "Integrity": "ozPXfbE0Bfefh3OLhG0NC/u4X4IwYLdrZQnMw6F1dkw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner1.svg"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner1.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint=dulpgot2b4}]?.js.gz",
       "AssetKind": "All",
@@ -322,20 +322,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "mcecywq7dn",
       "Integrity": "WurGuAHjOiTieRbGTxr5SqId3Zzj/pd0VT0Y0H1nd6w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint=4dm14o4hmc}]?.js.gz",
       "AssetKind": "All",
@@ -343,20 +343,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "axeq7ov9dx",
       "Integrity": "8jrmVgkZhYqu9xv6od+Hs0AYlFPugXorNkG7u/b7+QM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint=fc9074g7ds}]?.js.gz",
       "AssetKind": "All",
@@ -364,20 +364,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "zct6kfmf1r",
       "Integrity": "IyoTuHv3+DsCSEdiEiw7O3e8yfuLji5JVuDA5dphpbY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint=wus95c49fh}]?.js.gz",
       "AssetKind": "All",
@@ -385,20 +385,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "62nc5b05sc",
       "Integrity": "vnBBsLtlTkE0XzSJScKSjnzcMdCDtJlfmsvvcjTfy8g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint=g210lhpolz}]?.map.gz",
       "AssetKind": "All",
@@ -406,20 +406,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "yuzov9bijx",
       "Integrity": "ij4ZbVtJ7BATa95H16aIv2FO15r7SACEgS3hd/uBD2E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "js/site#[.{fingerprint=6b9nfc4n3r}]?.js.gz",
       "AssetKind": "All",
@@ -427,20 +427,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fcqb9ze6m2",
       "Integrity": "H8/Ja+Lid0ct29X6wZhSxx6DrIaW5h2ryBsiSVPsqLo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint=a8eee2794i}]?.js.gz",
       "AssetKind": "All",
@@ -448,20 +448,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "55kwhzdq4q",
       "Integrity": "+ZphBT5D6lgGIbbS/aGK1UpVKyMUz28kv1q0OCWUQyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint=wrmkol24q7}]?.map.gz",
       "AssetKind": "All",
@@ -469,20 +469,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ln2y8iabpv",
       "Integrity": "8TF9KIGQIfRgtUmjQef7noadEqh2KjIWSf0KJqKFsLA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/.bower#[.{fingerprint=l5mpl4bjng}]?.json.gz",
       "AssetKind": "All",
@@ -490,20 +490,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "h1lstajrr2",
       "Integrity": "exH4CjHjkW7eDJmCSMLua5oC1NEuGfyUp6JIRqVT39g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint=euzfjcw9e7}]?.js.gz",
       "AssetKind": "All",
@@ -511,20 +511,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "c36y1hpw3g",
       "Integrity": "qJfVei6fSTeUdIc4feU7uxHorwTDCFVMxYuJwW55A+o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint=ufik3s9dum}]?.css.gz",
       "AssetKind": "All",
@@ -532,20 +532,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "pdhopkaed2",
       "Integrity": "/RaKEfsWVj9hSJpvgu0xkKlTEUaqN0FRmUOJkPEwNrk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint=wqejeusuyq}]?.txt.gz",
       "AssetKind": "All",
@@ -553,20 +553,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1acops1y8w",
       "Integrity": "KY2np0HfSTsT6uknKb4pe4tD1D8jXGIBjtC6eK4h5wY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/.bower#[.{fingerprint=21vr2boczr}]?.json.gz",
       "AssetKind": "All",
@@ -574,20 +574,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "jxn54ulaiw",
       "Integrity": "Z5QGXoEdxO4DbaCTwoTMtUGL/Sz9ieN+lKPgDtEQxlE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "favicon#[.{fingerprint=90yqlj465b}]?.ico.gz",
       "AssetKind": "All",
@@ -595,20 +595,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\favicon.ico",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fxo9vb9gbf",
       "Integrity": "cwHpDnBTabxDzOHXFPOawb7ZlL3eysr4s1HfAD/K3vA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\favicon.ico"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=ahjbid90mr}]?.css.gz",
       "AssetKind": "All",
@@ -616,20 +616,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "goiuplvvod",
       "Integrity": "EJdOeEmOjRNfkUW1SVd9UinAN6wDn/cxaISkQwtCxwM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint=9ruze9sgfm}]?.css.gz",
       "AssetKind": "All",
@@ -637,20 +637,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "b80umwb2db",
       "Integrity": "VR0HRsCOowG0ViNuiN95kEuKIPUQGntLMAlB4wW9PfQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint=t3np89y583}]?.js.gz",
       "AssetKind": "All",
@@ -658,20 +658,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "8ktvq5j59v",
       "Integrity": "aKWAGwpyAY1c93zWqmlj0zRrp7UvwJsDiHeLh7p5NZQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint=o3yzcp43z9}]?.map.gz",
       "AssetKind": "All",
@@ -679,20 +679,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "gvtiq4m3j0",
       "Integrity": "vHHbOrrgy5FjZEjQIRuOXQ7CeCsQDMmKml0Wzm1Dd6I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "css/site#[.{fingerprint=4oh4j1jkky}]?.css.gz",
       "AssetKind": "All",
@@ -700,20 +700,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.css",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "nlpjpnn4us",
       "Integrity": "pRJLIlFuN56hQzrOeJ7bGBXWKQep/ANFVZMSJAc0YKM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint=x0q3zqp4vz}]?.md.gz",
       "AssetKind": "All",
@@ -721,20 +721,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1fp9w2itex",
       "Integrity": "7bAe2yT3obcUnzDyFQyuh4GI4iC/NGB4Bs4gZaY3Wj4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint=afgyafcsqt}]?.txt.gz",
       "AssetKind": "All",
@@ -742,20 +742,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "0zbcogbw28",
       "Integrity": "ZDAGOdR20ibon7527nc5VXYENVn9qGYJYTlIY0n9MMI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "images/banner3#[.{fingerprint=w24zs667xn}]?.svg.gz",
       "AssetKind": "All",
@@ -763,20 +763,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner3.svg",
+      "RelatedAsset": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner3.svg",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "sif8gawdut",
       "Integrity": "bEc4p0oF4juPoBoPAtCC/YoysIqmi4LZm73PrYNrnsA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner3.svg"
+      "OriginalItemSpec": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner3.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.css",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.css",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.min.css",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.min.css",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "css/site.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\favicon.ico",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\favicon.ico",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner1.svg",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner1.svg",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "images/banner1#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner1.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner2.svg",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner2.svg",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "images/banner2#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner2.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner3.svg",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner3.svg",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "images/banner3#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner3.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.min.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.min.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "js/site.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/.bower#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-theme.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/dist/js/npm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\npm.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/.bower#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/.bower#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/.bower#[.{fingerprint}]?.json",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\.bower.json"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ExpenseManager",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\",
+      "ContentRoot": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\",
       "BasePath": "_content/ExpenseManager",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1637,7 +1637,7 @@
   "Endpoints": [
     {
       "Route": "css/site.4oh4j1jkky.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1700,7 +1700,7 @@
     },
     {
       "Route": "css/site.4oh4j1jkky.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1745,7 +1745,7 @@
     },
     {
       "Route": "css/site.4oh4j1jkky.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1798,7 +1798,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1853,7 +1853,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1890,7 +1890,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ubzby8u0tn-4oh4j1jkky.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1935,7 +1935,7 @@
     },
     {
       "Route": "css/site.min.8qo50a92ce.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1998,7 +1998,7 @@
     },
     {
       "Route": "css/site.min.8qo50a92ce.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.min.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2043,7 +2043,7 @@
     },
     {
       "Route": "css/site.min.8qo50a92ce.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2096,7 +2096,7 @@
     },
     {
       "Route": "css/site.min.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2151,7 +2151,7 @@
     },
     {
       "Route": "css/site.min.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\css\\site.min.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\css\\site.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2188,7 +2188,7 @@
     },
     {
       "Route": "css/site.min.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\0a5ezr08z3-8qo50a92ce.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2233,7 +2233,7 @@
     },
     {
       "Route": "favicon.90yqlj465b.ico",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2296,7 +2296,7 @@
     },
     {
       "Route": "favicon.90yqlj465b.ico",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\favicon.ico",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2341,7 +2341,7 @@
     },
     {
       "Route": "favicon.90yqlj465b.ico.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2394,7 +2394,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2449,7 +2449,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\favicon.ico",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2486,7 +2486,7 @@
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\p8mxub0aty-90yqlj465b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2531,7 +2531,7 @@
     },
     {
       "Route": "images/banner1.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2586,7 +2586,7 @@
     },
     {
       "Route": "images/banner1.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner1.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner1.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2623,7 @@
     },
     {
       "Route": "images/banner1.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2668,7 +2668,7 @@
     },
     {
       "Route": "images/banner1.v6jnq5ttib.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2731,7 +2731,7 @@
     },
     {
       "Route": "images/banner1.v6jnq5ttib.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner1.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner1.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2776,7 +2776,7 @@
     },
     {
       "Route": "images/banner1.v6jnq5ttib.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\einrwicef9-v6jnq5ttib.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2829,7 +2829,7 @@
     },
     {
       "Route": "images/banner2.htbl0vvztd.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2892,7 +2892,7 @@
     },
     {
       "Route": "images/banner2.htbl0vvztd.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner2.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2937,7 +2937,7 @@
     },
     {
       "Route": "images/banner2.htbl0vvztd.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2990,7 +2990,7 @@
     },
     {
       "Route": "images/banner2.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3045,7 +3045,7 @@
     },
     {
       "Route": "images/banner2.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner2.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner2.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3082,7 +3082,7 @@
     },
     {
       "Route": "images/banner2.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\2w7244pr0b-htbl0vvztd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3127,7 +3127,7 @@
     },
     {
       "Route": "images/banner3.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3182,7 +3182,7 @@
     },
     {
       "Route": "images/banner3.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner3.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner3.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3219,7 +3219,7 @@
     },
     {
       "Route": "images/banner3.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3264,7 +3264,7 @@
     },
     {
       "Route": "images/banner3.w24zs667xn.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3327,7 +3327,7 @@
     },
     {
       "Route": "images/banner3.w24zs667xn.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\images\\banner3.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\images\\banner3.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3372,7 +3372,7 @@
     },
     {
       "Route": "images/banner3.w24zs667xn.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\yzmxjbagpb-w24zs667xn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3425,7 +3425,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3488,7 +3488,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3533,7 +3533,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3586,7 +3586,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3641,7 +3641,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3678,7 +3678,7 @@
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji3eftpuyc-6b9nfc4n3r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3723,7 +3723,7 @@
     },
     {
       "Route": "js/site.min.5ipweew5fc.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3786,7 +3786,7 @@
     },
     {
       "Route": "js/site.min.5ipweew5fc.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3831,7 +3831,7 @@
     },
     {
       "Route": "js/site.min.5ipweew5fc.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3884,7 +3884,7 @@
     },
     {
       "Route": "js/site.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3939,7 +3939,7 @@
     },
     {
       "Route": "js/site.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\js\\site.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\js\\site.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3976,7 +3976,7 @@
     },
     {
       "Route": "js/site.min.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\71qvmimpah-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4021,7 +4021,7 @@
     },
     {
       "Route": "lib/bootstrap/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4076,7 +4076,7 @@
     },
     {
       "Route": "lib/bootstrap/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4113,7 +4113,7 @@
     },
     {
       "Route": "lib/bootstrap/.bower.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4158,7 +4158,7 @@
     },
     {
       "Route": "lib/bootstrap/.bower.qc5bpo1mh7.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4221,7 +4221,7 @@
     },
     {
       "Route": "lib/bootstrap/.bower.qc5bpo1mh7.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4266,7 +4266,7 @@
     },
     {
       "Route": "lib/bootstrap/.bower.qc5bpo1mh7.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\10q4dhkp7x-qc5bpo1mh7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4319,7 +4319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.3zatgav9ba.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4382,7 +4382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.3zatgav9ba.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4427,7 +4427,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.3zatgav9ba.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4480,7 +4480,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4535,7 +4535,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4572,7 +4572,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.1gzojq7jip.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4635,7 +4635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.1gzojq7jip.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4680,7 +4680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.1gzojq7jip.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4733,7 +4733,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\158emiqdn9-3zatgav9ba.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4778,7 +4778,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4833,7 +4833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4870,7 +4870,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.css.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\1zhuoqevyl-1gzojq7jip.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4915,7 +4915,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.9ruze9sgfm.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4978,7 +4978,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.9ruze9sgfm.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5023,7 +5023,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.9ruze9sgfm.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5076,7 +5076,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5131,7 +5131,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5168,7 +5168,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.g210lhpolz.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5231,7 +5231,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.g210lhpolz.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5276,7 +5276,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.g210lhpolz.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5329,7 +5329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\qxubqjrjfr-9ruze9sgfm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5374,7 +5374,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5429,7 +5429,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5466,7 +5466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-theme.min.css.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ji0b5fsq40-g210lhpolz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5511,7 +5511,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ahjbid90mr.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5574,7 +5574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ahjbid90mr.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5619,7 +5619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.ahjbid90mr.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5672,7 +5672,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5727,7 +5727,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5764,7 +5764,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ppyu65u3sa-ahjbid90mr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5809,7 +5809,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5864,7 +5864,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5901,7 +5901,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5946,7 +5946,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.o3yzcp43z9.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6009,7 +6009,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.o3yzcp43z9.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6054,7 +6054,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.o3yzcp43z9.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\s1ucan2crk-o3yzcp43z9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6107,7 +6107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6162,7 +6162,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6199,7 +6199,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6244,7 +6244,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6299,7 +6299,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6336,7 +6336,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6381,7 +6381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.wrmkol24q7.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6444,7 +6444,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.wrmkol24q7.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6489,7 +6489,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.wrmkol24q7.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\kueayzowqe-wrmkol24q7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6542,7 +6542,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.ufik3s9dum.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6605,7 +6605,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.ufik3s9dum.css",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6650,7 +6650,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.ufik3s9dum.css.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\niuejt3g8t-ufik3s9dum.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6703,7 +6703,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6740,7 +6740,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6785,7 +6785,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6830,7 +6830,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.r3m9qmfdw3.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6893,7 +6893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.r3m9qmfdw3.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6938,7 +6938,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.r3m9qmfdw3.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6991,7 +6991,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7046,7 +7046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7083,7 +7083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\a7i9h5294o-r3m9qmfdw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7128,7 +7128,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.torz25362b.eot",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7173,7 +7173,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7210,7 +7210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7247,7 +7247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7284,7 +7284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/fonts/glyphicons-halflings-regular.y3zdydnkm9.woff2",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7329,7 +7329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.dulpgot2b4.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7392,7 +7392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.dulpgot2b4.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7437,7 +7437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.dulpgot2b4.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7490,7 +7490,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7545,7 +7545,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7582,7 +7582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\f14hwudz5x-dulpgot2b4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7627,7 +7627,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.euzfjcw9e7.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7690,7 +7690,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.euzfjcw9e7.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7735,7 +7735,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.euzfjcw9e7.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7788,7 +7788,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7843,7 +7843,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7880,7 +7880,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\nhb111s6k2-euzfjcw9e7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7925,7 +7925,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/npm.4sgu2tw5my.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7988,7 +7988,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/npm.4sgu2tw5my.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8033,7 +8033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/npm.4sgu2tw5my.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8086,7 +8086,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/npm.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8141,7 +8141,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/npm.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\dist\\js\\npm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8178,7 +8178,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/npm.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\bllonyebpv-4sgu2tw5my.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8223,7 +8223,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8260,7 +8260,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.qj8ig4ubvq",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8305,7 +8305,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/.bower.21vr2boczr.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8368,7 +8368,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/.bower.21vr2boczr.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8413,7 +8413,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/.bower.21vr2boczr.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8466,7 +8466,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8521,7 +8521,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8558,7 +8558,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/.bower.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\oo1k20l194-21vr2boczr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8603,7 +8603,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8658,7 +8658,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8695,7 +8695,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8740,7 +8740,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8795,7 +8795,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8832,7 +8832,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8877,7 +8877,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.l0xqxslevh.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8940,7 +8940,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.l0xqxslevh.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8985,7 +8985,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.l0xqxslevh.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\9ss62r3fby-l0xqxslevh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9038,7 +9038,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.t3np89y583.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9101,7 +9101,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.t3np89y583.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9146,7 +9146,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.t3np89y583.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\ruc27ohzgi-t3np89y583.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9199,7 +9199,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9254,7 +9254,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9291,7 +9291,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9336,7 +9336,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9399,7 +9399,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9444,7 +9444,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\o5vx7lwk61-wqejeusuyq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9497,7 +9497,7 @@
     },
     {
       "Route": "lib/jquery-validation/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9552,7 +9552,7 @@
     },
     {
       "Route": "lib/jquery-validation/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9589,7 +9589,7 @@
     },
     {
       "Route": "lib/jquery-validation/.bower.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9634,7 +9634,7 @@
     },
     {
       "Route": "lib/jquery-validation/.bower.l5mpl4bjng.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9697,7 +9697,7 @@
     },
     {
       "Route": "lib/jquery-validation/.bower.l5mpl4bjng.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9742,7 +9742,7 @@
     },
     {
       "Route": "lib/jquery-validation/.bower.l5mpl4bjng.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\lfbekadx0r-l5mpl4bjng.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9795,7 +9795,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9850,7 +9850,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9887,7 +9887,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9932,7 +9932,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9987,7 +9987,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10024,7 +10024,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10069,7 +10069,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10132,7 +10132,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10177,7 +10177,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\45ms0wu4y5-sjab29p8z5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10230,7 +10230,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10293,7 +10293,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10338,7 +10338,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\igf3jzkvue-wus95c49fh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10391,7 +10391,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10454,7 +10454,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10499,7 +10499,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.d2pxujwhw3.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10552,7 +10552,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10607,7 +10607,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10644,7 +10644,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\e09o5avekt-d2pxujwhw3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10689,7 +10689,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10752,7 +10752,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,7 +10797,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.4dm14o4hmc.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10850,7 +10850,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10905,7 +10905,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10942,7 +10942,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\gir0a4i9im-4dm14o4hmc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10987,7 +10987,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11042,7 +11042,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11079,7 +11079,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11124,7 +11124,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11187,7 +11187,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11232,7 +11232,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vggxliuccu-x0q3zqp4vz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11285,7 +11285,7 @@
     },
     {
       "Route": "lib/jquery/.bower.ewsoquf6rw.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11348,7 +11348,7 @@
     },
     {
       "Route": "lib/jquery/.bower.ewsoquf6rw.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11393,7 +11393,7 @@
     },
     {
       "Route": "lib/jquery/.bower.ewsoquf6rw.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11446,7 +11446,7 @@
     },
     {
       "Route": "lib/jquery/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11501,7 +11501,7 @@
     },
     {
       "Route": "lib/jquery/.bower.json",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\.bower.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11538,7 +11538,7 @@
     },
     {
       "Route": "lib/jquery/.bower.json.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\3e13jj1udz-ewsoquf6rw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11583,7 +11583,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.a8eee2794i.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11646,7 +11646,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.a8eee2794i.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11691,7 +11691,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.a8eee2794i.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11744,7 +11744,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11799,7 +11799,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11836,7 +11836,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\k4jfs0y800-a8eee2794i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11881,7 +11881,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.b804xvqo1w.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11944,7 +11944,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.b804xvqo1w.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11989,7 +11989,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.b804xvqo1w.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12042,7 +12042,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.fc9074g7ds.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12105,7 +12105,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.fc9074g7ds.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12150,7 +12150,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.fc9074g7ds.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12203,7 +12203,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12258,7 +12258,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12295,7 +12295,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\hgnefomv8g-fc9074g7ds.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12340,7 +12340,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12395,7 +12395,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12432,7 +12432,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\32jdtast2z-b804xvqo1w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12477,7 +12477,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12540,7 +12540,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12585,7 +12585,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12638,7 +12638,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12693,7 +12693,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12730,7 +12730,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt.gz",
-      "AssetFile": "G:\\Web Design\\ExpenseManager-ASPCore-EFCore-Highchart\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
+      "AssetFile": "G:\\Web Design\\ExpenseManager_PA\\ExpenseManager\\obj\\Debug\\net9.0\\compressed\\vo769fiejc-afgyafcsqt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -230,8 +230,8 @@
 
         <div class="form-group">
             <input type="password" name="password" class="form-input" placeholder="Mật khẩu" required
-                autocomplete="current-password" />
-            <span class="input-icon">🔒</span>
+                autocomplete="current-password" id="password-input" />
+            <span class="input-icon" id="toggle-password" style="cursor:pointer;" title="Hiện/ẩn mật khẩu">🔒</span>
         </div>
 
         <button type="submit" class="login-btn">
@@ -254,5 +254,16 @@
         input.addEventListener('blur', function () {
             this.parentElement.style.transform = 'translateY(0)';
         });
+    });
+
+    // Ẩn/hiện mật khẩu
+    const passwordInput = document.getElementById('password-input');
+    const togglePassword = document.getElementById('toggle-password');
+    let isPasswordVisible = false;
+
+    togglePassword.addEventListener('click', function () {
+        isPasswordVisible = !isPasswordVisible;
+        passwordInput.type = isPasswordVisible ? 'text' : 'password';
+        togglePassword.textContent = isPasswordVisible ? '👁️' : '🔒';
     });
 </script>
